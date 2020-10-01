@@ -1,2 +1,2 @@
 # git-practice
-larning git command
+lerning git command
